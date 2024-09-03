@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978333159677",
+    "project_id": "savingsboxtest",
+    "storage_bucket": "savingsboxtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978333159677:android:9a7e5321377175c1cdee94",
+        "android_client_info": {
+          "package_name": "com.example.blog_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5oMDAkkTlVwu_jUwhGVipwi2vrANPC28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978333159677:android:755194c5ecb21651cdee94",
+        "android_client_info": {
+          "package_name": "com.example.task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5oMDAkkTlVwu_jUwhGVipwi2vrANPC28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
